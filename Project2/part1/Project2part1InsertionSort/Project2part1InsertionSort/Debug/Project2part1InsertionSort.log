@@ -1,0 +1,3 @@
+﻿  Project2part1InsertionSort.cpp
+c:\users\michael\documents\colleges\university of south alabama\fall 2019\csc 231 data stuctures and algorithms\project2\part1\project2part1insertionsort\project2part1insertionsort\project2part1insertionsort.cpp(40): warning C4244: 'argument': conversion from 'float' to 'const time_t', possible loss of data
+  Project2part1InsertionSort.vcxproj -> C:\Users\Michael\Documents\Colleges\University of South Alabama\Fall 2019\CSC 231 Data Stuctures and Algorithms\Project2\part1\Project2part1InsertionSort\Debug\Project2part1InsertionSort.exe

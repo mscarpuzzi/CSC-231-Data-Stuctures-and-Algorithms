@@ -1,0 +1,6 @@
+﻿  whoopingCrane.cpp
+  whoopingCraneMain.cpp
+C:\Users\Michael\Documents\Colleges\University of South Alabama\Fall 2019\CSC 231 Data Stuctures and Algorithms\Project5\Project5\Project5\whoopingCraneMain.cpp(208,15): warning C4101: 'attempts': unreferenced local variable
+  Generating Code...
+C:\Users\Michael\Documents\Colleges\University of South Alabama\Fall 2019\CSC 231 Data Stuctures and Algorithms\Project5\Project5\Project5\whoopingCraneMain.cpp(66): warning C4715: 'initializeHash': not all control paths return a value
+  Project5.vcxproj -> C:\Users\Michael\Documents\Colleges\University of South Alabama\Fall 2019\CSC 231 Data Stuctures and Algorithms\Project5\Project5\Debug\Project5.exe
